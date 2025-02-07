@@ -1,0 +1,10 @@
+# 排除環境設定檔
+.env
+
+# 排除特定資料夾
+venv/
+google_driver/
+# 排除特定檔案
+google_cloud_key.json
+
+
